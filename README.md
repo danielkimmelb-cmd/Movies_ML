@@ -52,7 +52,7 @@ Python · pandas · NumPy · scikit-learn · NLTK (VADER) · BeautifulSoup · ht
 
 ## How to Run
 ```bash
-git clone https://github.com/<danielkimmelb-cmd>/Movies_ML.git
+git clone https://github.com/danielkimmelb-cmd/Movies_ML.git
 cd Movies_ML
 pip install -r requirements.txt
 python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt'); nltk.download('vader_lexicon')"
